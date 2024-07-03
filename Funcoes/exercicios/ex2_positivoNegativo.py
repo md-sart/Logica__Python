@@ -3,6 +3,7 @@
     #Para este exercício crie duas funções:
     #verifica(a) recebe o número e retorna "P" (> 0), "N" (< 0) ou "Zero" (igual a 0).
     #main() digita um número, faz a chamada à função verifica e depois mostra o resultado.
+    
  
 # Definição da função verifica para determinar se um número é zero, positivo ou negativo.
 def verifica(a):

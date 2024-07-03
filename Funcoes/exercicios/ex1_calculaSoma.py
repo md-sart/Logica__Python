@@ -5,6 +5,7 @@
         #entrada() retorna um número digitado (fazer a verificação se é positivo);
         #calculaSoma(a, b, c) recebe 3 números inteiros e positivos e retorna a soma deles;
         #main() chamada das funções criadas (chama 3 vezes a entrada, sendo uma para cada número e a função para somar) e depois mostre o resultado.
+        
 
 # Função para receber uma entrada do usuário e verificar se é um número positivo.
 def entrada():

@@ -4,6 +4,7 @@
     #entrada() serve para retornar tanto o custo do produto quanto a porcentagem do imposto;
     #somaImposto(porc, custo) recebe o valor da porcentagem do imposto e o custo do produto. Retorna o novo custo do produto já com o imposto.
     #main() chamada das funções criadas (chama 2 vezes a entrada e 1 vez a função somaImposto) e depois mostre o custo com o imposto.
+    
 
 # Função para receber o custo do produto e a taxa do imposto do usuário.
 def entrada():

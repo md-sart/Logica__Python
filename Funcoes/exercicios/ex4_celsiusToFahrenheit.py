@@ -6,6 +6,7 @@
     #verificaIntervalo() a função não tem parâmetro de entrada e retorna os valores inicial e final do intervalo (fazer a validação para que o valor inicial seja menor que o valor final);
     #exibeFahrenheitToCelsius(inicio, fim) essa função recebe como entrada o intervalo de temperatura a ser exibido, faz a conversão de temperatura e mostra a temperatura convertida para Celsius;
     #exibeCelsiusToFahrenheit(inicio, fim) essa função recebe como entrada o intervalo de temperatura a ser exibido, faz a conversão de temperatura e mostra a temperatura convertida para Fahrenheit
+ 
     
 # Função para exibir uma mensagem de boas-vindas e instruções sobre o programa.
 def exibeMsg():
