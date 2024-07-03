@@ -1,0 +1,9 @@
+Funções
+Funções são úteis por vários motivos.
+
+Permitem organizar melhor o seu código
+Permitem modularizar e reutilizar código
+Encapsulam, isolam e portanto protegem partes e variáveis do seu programa
+Permitem liberar memória
+Permite distribuir e paralelizar o trabalho de codificação (veja mocking code)
+Portanto: Use Funções!!! ;-)

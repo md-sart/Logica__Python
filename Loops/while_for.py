@@ -1,5 +1,10 @@
 #Loops: while e for
 
+#Instruções while e for permitem implementar laços de execução nos programas, os chamados loops *. 
+# São blocos de instruções que se repetem até satisfazer alguma condição com chegar a um determinado valor ou índice.
+# Os loops são muito úteis para codificar situações repetitivas sem a necessidade de extensas linhas de código que se repetem.
+# não confunda, às vezes também empregamos o têrmo 'loop' para quando um programa, geralmente por erro, 'não para'.
+
 i = 1
 while i < 6:
   print ('Passando aqui...', i, '´ésima vez')
