@@ -1,0 +1,24 @@
+A biblioteca Pandas é uma ferramenta essencial para a análise de dados em Python. Ela oferece estruturas de dados flexíveis e eficientes para manipulação e análise de dados, como as séries e os dataframes.
+
+Principais Características:
+
+Estruturas de Dados:
+    Series: Uma estrutura unidimensional, semelhante a uma lista ou coluna de uma tabela.
+    DataFrame: Uma estrutura bidimensional, semelhante a uma tabela com linhas e colunas.
+
+Leitura e Escrita de Dados:
+    Importa dados de diferentes formatos, como CSV, Excel, SQL, JSON e mais.
+    Exporta dados para esses mesmos formatos.
+
+Manipulação de Dados:
+    Seleção e filtragem de dados.
+    Adição, remoção e atualização de dados.
+    Manipulação de dados ausentes (NaN).
+    Agrupamento e agregação de dados.
+
+Análise e Estatísticas:
+    Funções estatísticas e de resumo (média, mediana, desvio padrão, etc.).
+    Análise de séries temporais.
+
+Integração com outras bibliotecas:
+    Trabalha bem com outras bibliotecas populares como NumPy, Matplotlib e Scikit-Learn.
